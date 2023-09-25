@@ -1,0 +1,61 @@
+{
+    "Diwali": {
+      "imageUrl":"https://www.istockphoto.com/photo/firework-and-city-thailand-gm610127076-104658681",
+      "Description": "Diwali, the Festival of Lights, signifies the victory of light over darkness and good over evil. It involves lighting lamps, exchanging gifts, and enjoying festive meals.",
+      "Date": "October/November",
+      "Significance": "Celebrates the return of Lord Rama to Ayodhya and the vanquishing of the demon king Ravana."
+    },
+    "Holi": {
+        "imageUrl":"https://unsplash.com/photos/7-3cGWyQlV0",
+      "Description": "Holi, the Festival of Colors, is celebrated with colorful powders, water balloons, and playful festivities. It symbolizes the triumph of good over evil and the arrival of spring.",
+      "Date": "March",
+      "Significance": "Celebrates the love between Lord Krishna and Radha and the victory of good (Krishna) over evil (Holika)."
+    },
+    // "Eid-al-Fitr": {
+    //   "Description": "Eid-al-Fitr marks the end of Ramadan, a month of fasting and prayer for Muslims. It's a time for prayers, feasting, and giving to charity.",
+    //   "Date": "Varies (based on the Islamic lunar calendar)",
+    //   "Significance": "Celebrates the end of Ramadan and the beginning of Shawwal."
+    // },
+    "Navratri": {
+        "imageUrl":"https://unsplash.com/photos/B0Ubkn89XMs",
+        "Description": "Navratri is a nine-night festival dedicated to the goddess Durga. It involves fasting, dancing (Garba and Dandiya), and worshiping the goddess.",
+        "Date": "September/October",
+        "Significance": "Celebrates the victory of goddess Durga over the demon Mahishasura."
+    },
+    "Christmas": {
+        "imageUrl":"https://unsplash.com/photos/Z9Ds4w141i4",
+        "Description": "Christmas is celebrated by Christians in India to honor the birth of Jesus Christ. It includes church services, carol singing, decorating Christmas trees, and gift-giving.",
+        "Date": "December 25th",
+        "Significance": "Celebrates the birth of Jesus Christ, the Son of God."
+    },
+    "Raksha Bandhan": {
+        "Description": "Raksha Bandhan is a festival celebrating the bond between brothers and sisters. Sisters tie a protective thread (rakhi) on their brothers' wrists, and brothers give gifts in return.",
+        "Date": "August",
+        "Significance": "Symbolizes the love and protection between siblings."
+    },
+    "Ganesh Chaturthi": {
+        "imageUrl":"https://unsplash.com/photos/gold-dragon-figurine-on-green-leaf-SBHrS9zs9Lo",
+        "Description": "Ganesh Chaturthi is dedicated to Lord Ganesha, the elephant-headed god of wisdom and prosperity. It involves the installation of Ganesha idols and immersion in water.",
+        "Date": "August/September",
+        "Significance": "Celebrates the birth of Lord Ganesha and seeks his blessings."
+    },
+    "Durga Puja": {
+        "imageUrl":"https://unsplash.com/photos/orgxlq_LrBQ",
+        "Description": "Durga Puja is a grand celebration in West Bengal, honoring goddess Durga. It includes elaborate decorations, idol processions, and cultural performances.",
+        "Date": "September/October",
+        "Significance": "Celebrates the goddess's victory over the buffalo demon Mahishasura."
+    },
+    "Pongal": {
+        "imageUrl":"https://unsplash.com/photos/xdiObjHyh_g",
+        "Description": "Pongal is a harvest festival celebrated in South India. It involves cooking a special dish called 'Pongal' and offering it to the sun god.",
+        "Date": "January",
+        "Significance": "Marks the harvest season and expresses gratitude to nature."
+    },
+    "Lohri": {
+        "imageUrl":"https://unsplash.com/photos/iu7nL1bN3e0",
+      "Description": "Lohri is a Punjabi winter festival celebrated with bonfires, music, and dance. It marks the end of winter and the arrival of longer days.",
+      "Date": "January",
+      "Significance": "Celebrates the winter solstice and harvest season."
+    }
+  }
+  
