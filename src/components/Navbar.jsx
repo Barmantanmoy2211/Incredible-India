@@ -22,6 +22,9 @@ function Navbar() {
         <a href="#" className="text-black hover:text-gray-300">
           Buy Products
         </a>
+        <a href="#" className="text-black hover:text-gray-300">
+          Blog
+        </a>
         <Button variant="contained">Log in</Button>
         <Button variant="outlined">Sign Up</Button>
       </div>
