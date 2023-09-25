@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities{
+
+	body {
+		background-image: url('../public/image3.jpg');
+		background-size: cover;
+		background-position: center;
+		padding: 0;
+		margin: 0;
+		
+	
+	}
+}
