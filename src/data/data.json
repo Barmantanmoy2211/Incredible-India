@@ -1,0 +1,51 @@
+{
+  "Diwali": {
+    "imageUrl": "https://media.istockphoto.com/id/610127076/nl/foto/firework-and-city-thailand.jpg?s=1024x1024&w=is&k=20&c=fjK3Hxq-2No3kW7pq004Riu1AnfZj6yvvf84byPDleg=",
+    "Description": "Diwali, the Festival of Lights, signifies the victory of light over darkness and good over evil. It involves lighting lamps, exchanging gifts, and enjoying festive meals.",
+    "Date": "October/November",
+    "Significance": "Celebrates the return of Lord Rama to Ayodhya and the vanquishing of the demon king Ravana."
+  },
+  "Holi": {
+    "imageUrl": "https://images.unsplash.com/photo-1551757891-24a8dabd2708?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "Description": "Holi, the Festival of Colors, is celebrated with colorful powders, water balloons, and playful festivities. It symbolizes the triumph of good over evil and the arrival of spring.",
+    "Date": "March",
+    "Significance": "Celebrates the love between Lord Krishna and Radha and the victory of good (Krishna) over evil (Holika)."
+  },
+  "Navratri": {
+    "imageUrl": "https://images.unsplash.com/photo-1606293927185-20fad5f0a93e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+    "Description": "Navratri is a nine-night festival dedicated to the goddess Durga. It involves fasting, dancing (Garba and Dandiya), and worshiping the goddess.",
+    "Date": "September/October",
+    "Significance": "Celebrates the victory of goddess Durga over the demon Mahishasura."
+  },
+  "Christmas": {
+    "imageUrl": "https://images.unsplash.com/photo-1543589077-47d81606c1bf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+    "Description": "Christmas is celebrated by Christians in India to honor the birth of Jesus Christ. It includes church services, carol singing, decorating Christmas trees, and gift-giving.",
+    "Date": "December 25th",
+    "Significance": "Celebrates the birth of Jesus Christ, the Son of God."
+  },
+
+  "Ganesh Chaturthi": {
+    "imageUrl": "https://images.unsplash.com/photo-1610085927744-7217728267a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1882&q=80",
+    "Description": "Ganesh Chaturthi is dedicated to Lord Ganesha, the elephant-headed god of wisdom and prosperity. It involves the installation of Ganesha idols and immersion in water.",
+    "Date": "August/September",
+    "Significance": "Celebrates the birth of Lord Ganesha and seeks his blessings."
+  },
+  "Durga Puja": {
+    "imageUrl": "https://images.unsplash.com/photo-1593847794002-a67998d742fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1957&q=80",
+    "Description": "Durga Puja is a grand celebration in West Bengal, honoring goddess Durga. It includes elaborate decorations, idol processions, and cultural performances.",
+    "Date": "September/October",
+    "Significance": "Celebrates the goddess's victory over the buffalo demon Mahishasura."
+  },
+  "Pongal": {
+    "imageUrl": "https://images.unsplash.com/photo-1672839641769-b7a8afa0cb14?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "Description": "Pongal is a harvest festival celebrated in South India. It involves cooking a special dish called 'Pongal' and offering it to the sun god.",
+    "Date": "January",
+    "Significance": "Marks the harvest season and expresses gratitude to nature."
+  },
+  "Lohri": {
+    "imageUrl": "https://images.unsplash.com/photo-1589754328566-f3c618d68387?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1776&q=80",
+    "Description": "Lohri is a Punjabi winter festival celebrated with bonfires, music, and dance. It marks the end of winter and the arrival of longer days.",
+    "Date": "January",
+    "Significance": "Celebrates the winter solstice and harvest season."
+  }
+}
