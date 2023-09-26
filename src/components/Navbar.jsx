@@ -15,7 +15,7 @@ function Navbar() {
           </li>
           <li className="list-none text-block hover:text-grey-300 gap-x-8">
             <Link to="/" className="text-black hover:text-gray-300">
-              Travalind
+              Travelind
             </Link>
           </li>
           <li className="list-none text-block hover:text-grey-300">
