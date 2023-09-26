@@ -1,5 +1,6 @@
 // import { Link } from "react-router-dom";
 import { TextField, Button } from "@mui/material";
+import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
@@ -12,8 +13,14 @@ function Navbar() {
           variant="outlined"
           className="h-4"
         />
+        <ui className="flex gap-x-5">
+          <li className="list-none text-block hover:text-grey-300 gap-x-8"><Link to="/" className="text-black hover:text-gray-300">Home</Link></li>
+          <li className="list-none text-block hover:text-grey-300"><Link to="/festivales" className="text-black hover:text-gray-300">Upcoming_Festivales</Link></li>
+          <li className="list-none text-block hover:text-grey-300"><Link to="/buyProducts" className="text-black hover:text-gray-300">Buy_Products</Link></li>
+          <li className="list-none text-block hover:text-grey-300"><Link to="/blogs" className="text-black hover:text-gray-300">Blog</Link></li>
+        </ui>
 
-        <a href="#" className="text-black hover:text-gray-300">
+        {/* <a href="#" className="text-black hover:text-gray-300">
           Home
         </a>
         <a href="#" className="text-black hover:text-gray-300">
@@ -24,7 +31,7 @@ function Navbar() {
         </a>
         <a href="#" className="text-black hover:text-gray-300">
           Blog
-        </a>
+        </a> */}
         <Button variant="contained">Log in</Button>
         <Button variant="outlined">Sign Up</Button>
       </div>

@@ -2,8 +2,9 @@ import Footer from "./components/Footer";
 import Main from "./components/Main";
 import Navbar from "./components/Navbar";
 import CardSection from "./components/CardSection";
-import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
+import { Routes, Route} from "react-router-dom";
 import Blogs from "./components/Blogs";
+import VideoPlayer from "./components/VideoPlayer";
 
 function App() {
   return (
@@ -13,14 +14,17 @@ function App() {
         style={{}}
       >
         <Navbar />
-        {/* <Routes> */}
-        {/* <Route exact path="/blogs" element={<Blogs/>}/> */}
-        {/* </Routes> */}
-        <Main />
+        <Routes>
+        <Route exact path="/" element={<Main/>}/>
+        <Route exact path="/blogs" element={<Blogs/>}/>
+        {/* <Route exact path="/festivales" element={<Festivales/>}/> */}
+        </Routes>
+        {/* <Main /> */}
       </section>
       <section>
         <CardSection className="flex space-x-4 justify-evenly flex-wrap h-auto bg-white py-8 " />
       </section>
+      {/* <VideoPlayer /> */}
       <Footer />
     </div>
   );

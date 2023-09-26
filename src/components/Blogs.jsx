@@ -1,9 +1,11 @@
 import React from 'react'
+import CardSection from './CardSection'
+import VideoPlayer from './VideoPlayer'
 
 const Blogs = () => {
   return (
     <div>
-      Blog
+      <VideoPlayer />
     </div>
   )
 }

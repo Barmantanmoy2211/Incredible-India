@@ -1,0 +1,51 @@
+{
+    "Kantha Embroidery": {
+      
+        "imageUrl":"https://i.pinimg.com/originals/f9/58/ba/f958ba933996e408e64baeb57286867e.jpg",
+        "ItemName": "Kantha Embroidery",
+        "Description": "Kantha embroidery is a traditional handcraft from West Bengal and Bangladesh. It involves intricate running stitch patterns on sarees, quilts, and other textiles, often depicting folk tales and rural life."
+      },
+      "Bidriware" :{
+        "imageUrl":"https://bangaloremirror.indiatimes.com/thumb/msid-68102322,width-1200,height-900,resizemode-4/.jpg",
+       
+        "Description": "Bidriware is a unique metal handicraft from Bidar, Karnataka. It features intricate silver inlay work on blackened zinc and copper alloy items such as vases, trays, and jewelry."
+      },
+      "Pashmina Shawls" :{
+        "imageUrl":"https://i.pinimg.com/736x/6a/84/f7/6a84f70e09fcf245c676e1efa22ece9f.jpg",
+        
+        "Description": "Pashmina shawls are handwoven in Kashmir using fine cashmere wool. These luxurious and warm shawls are known for their softness and intricate patterns, often inspired by nature."
+    },
+    "Madhubani Paintings" :{
+          "imageUrl":"https://i.pinimg.com/736x/17/56/ac/1756ac22553c6198079548092e40eef8.jpg",
+          "ItemName": "Madhubani Paintings",
+          "Description": "Madhubani paintings originate from Bihar and depict mythological and nature-inspired themes. They are characterized by vibrant colors and intricate patterns, often created by women in rural communities."
+        },
+        "Chikankari Embroidery" :{
+            "imageUrl":"https://5.imimg.com/data5/ANDROID/Default/2023/1/WU/TR/XZ/55203487/product-jpeg-500x500.jpg",
+            "Description": "Chikankari is a delicate and intricate embroidery style from Lucknow, Uttar Pradesh. It involves white threadwork on lightweight fabrics like muslin and chiffon, creating elegant patterns and motifs."
+        },
+        "Terracotta Pottery" :{
+          "imageUrl":"https://www.terracottabysachii.com/cdn/shop/products/KutchHandpaintedCookieJar6_1.jpg?v=1670613248&width=533",
+          "Description": "Terracotta pottery is crafted in various parts of India. It involves molding and firing clay to create decorative items, cookware, and idols. It is known for its earthy colors and rustic charm."
+        },
+        "Kalamkari Fabrics" : {
+          "imageUrl":"https://theindianethnicco.com/cdn/shop/files/IMG_1027_624c2e6c-690e-406b-a81b-3b6ed4fccce7_600x600_crop_center.jpg?v=1689765914",
+          "Description": "Kalamkari is an ancient hand-painting and block-printing technique from Andhra Pradesh and Telangana. It often depicts Hindu mythology and floral designs on fabrics."
+        },
+        "Bamboo Crafts" : {
+          "imageUrl":"https://1.bp.blogspot.com/-50bKskuzxRw/VksPsCqWy5I/AAAAAAAACZ0/ZOkz7GB9-aM/s640/60056_handicraft.jpg",
+          "Description": "Bamboo crafts are popular in Northeastern India. Skilled artisans create baskets, furniture, and even musical instruments from bamboo, showcasing the region's sustainable and eco-friendly practices."
+        },
+        "Thangka Paintings" : {
+          "imageUrl":"https://i1.himalayas.life/c/u/f67894297b6134a6b759b3a9ec15b6cb/2018/04/26054954/26-e1522558104714.jpeg",
+          "ItemName": "Thangka Paintings",
+          "Description": "Thangka paintings are intricate scroll paintings featuring Buddhist deities and scenes. They are made by Tibetan and Himalayan artists using traditional techniques and materials."
+        },
+        "Banarasi Silk Sarees" : {
+          "imageUrl":"https://rukminim1.flixcart.com/image/850/1000/xif0q/sari/n/r/x/free-swara-pista-jiyansh-online-unstitched-original-imaghv8epaytxuxf.jpeg?q=90",
+        "ItemName": "Banarasi Silk Sarees",
+        "Description": "Banarasi silk sarees are handwoven in Varanasi, Uttar Pradesh. They are known for their opulent gold and silver zari work, intricate designs, and are an integral part of Indian weddings and festivities."
+      }
+    }
+  
+  
