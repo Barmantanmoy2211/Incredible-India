@@ -2,9 +2,9 @@ import Footer from "./components/Footer";
 import Main from "./components/Main";
 import Navbar from "./components/Navbar";
 import CardSection from "./components/CardSection";
-import { Routes, Route} from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Blogs from "./components/Blogs";
-import VideoPlayer from "./components/VideoPlayer";
+// import VideoPlayer from "./components/VideoPlayer";
 
 function App() {
   return (
@@ -15,9 +15,9 @@ function App() {
       >
         <Navbar />
         <Routes>
-        <Route exact path="/" element={<Main/>}/>
-        <Route exact path="/blogs" element={<Blogs/>}/>
-        {/* <Route exact path="/festivales" element={<Festivales/>}/> */}
+          <Route exact path="/" element={<Main />} />
+          <Route exact path="/blogs" element={<Blogs />} />
+          {/* <Route exact path="/festivales" element={<Festivales/>}/> */}
         </Routes>
         {/* <Main /> */}
       </section>

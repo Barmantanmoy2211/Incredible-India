@@ -1,5 +1,5 @@
-import React from 'react'
-import CardSection from './CardSection'
+import React from "react";
+import CardSection from "../src/components/CardSection";
 
 const Blogs = () => {
   return (
@@ -8,7 +8,7 @@ const Blogs = () => {
         <CardSection className="flex space-x-4 justify-evenly flex-wrap h-auto bg-white py-8 " />
       </section>
     </div>
-  )
-}
+  );
+};
 
-export default Blogs
+export default Blogs;
