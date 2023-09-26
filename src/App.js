@@ -2,6 +2,7 @@ import Footer from "./components/Footer";
 import Main from "./components/Main";
 import Navbar from "./components/Navbar";
 import CardSection from "./components/CardSection";
+import festivalData from "./data/data.json";
 import { Routes, Route } from "react-router-dom";
 import Blogs from "./components/Blogs";
 // import VideoPlayer from "./components/VideoPlayer";
@@ -22,7 +23,10 @@ function App() {
         {/* <Main /> */}
       </section>
       <section>
-        <CardSection className="flex space-x-4 justify-evenly flex-wrap h-auto bg-white py-8 " />
+        <CardSection
+          className="flex space-x-4 justify-evenly flex-wrap h-auto bg-white py-8 "
+          data={festivalData}
+        />
       </section>
       {/* <VideoPlayer /> */}
       <Footer />

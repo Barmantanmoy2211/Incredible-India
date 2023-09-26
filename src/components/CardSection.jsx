@@ -4,9 +4,8 @@ import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
-import data from "../data/data.json";
 
-export default function CardSection({ className }) {
+export default function CardSection({ className, data }) {
   const d = Object.entries(data);
   return (
     <div className={className}>
