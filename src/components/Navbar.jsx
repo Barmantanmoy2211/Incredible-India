@@ -15,12 +15,12 @@ function Navbar() {
           </li>
           <li className="list-none text-block hover:text-grey-300 gap-x-8">
             <Link to="/" className="text-black hover:text-gray-300">
-              TravalIND
+              Travalind
             </Link>
           </li>
           <li className="list-none text-block hover:text-grey-300">
             <Link to="/festivales" className="text-black hover:text-gray-300">
-              Upcoming_Festivales
+              Upcoming_Festivals
             </Link>
           </li>
           <li className="list-none text-block hover:text-grey-300">
@@ -30,7 +30,7 @@ function Navbar() {
           </li>
           <li className="list-none text-block hover:text-grey-300">
             <Link to="/blogs" className="text-black hover:text-gray-300">
-              Blog
+              Blogs
             </Link>
           </li>
         </ui>
