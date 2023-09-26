@@ -2,6 +2,7 @@ import Footer from "./components/Footer";
 import Main from "./components/Main";
 import Navbar from "./components/Navbar";
 import CardSection from "./components/CardSection";
+import festivalData from "./data/data.json";
 
 function App() {
   return (
@@ -14,7 +15,10 @@ function App() {
         <Main />
       </section>
       <section>
-        <CardSection className="flex space-x-4 justify-evenly flex-wrap h-auto bg-white py-8 " />
+        <CardSection
+          className="flex space-x-4 justify-evenly flex-wrap h-auto bg-white py-8 "
+          data={festivalData}
+        />
       </section>
       <Footer />
     </div>
