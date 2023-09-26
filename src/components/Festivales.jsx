@@ -1,5 +1,5 @@
 import React from "react";
-import CardSection from "../src/components/CardSection";
+import CardSection from "./CardSection";
 
 const Blogs = () => {
   return (
