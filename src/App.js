@@ -5,6 +5,7 @@ import CardSection from "./components/CardSection";
 import festivalData from "./data/data.json";
 import { Routes, Route } from "react-router-dom";
 import Blogs from "./components/Blogs";
+import Festivals from "./components/Festivals";
 // import VideoPlayer from "./components/VideoPlayer";
 
 function App() {
@@ -18,7 +19,7 @@ function App() {
         <Routes>
           <Route exact path="/" element={<Main />} />
           <Route exact path="/blogs" element={<Blogs />} />
-          {/* <Route exact path="/festivales" element={<Festivales/>}/> */}
+          <Route exact path="/festivales" element={<Festivals />} />
         </Routes>
         {/* <Main /> */}
       </section>
