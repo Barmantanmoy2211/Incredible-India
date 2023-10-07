@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 function Navbar() {
   return (
     <nav className="bg-opacity-70 bg-white p-4 flex justify-between items-baseline">
-      <div className="text-black text-3xl mx-96">HeritageIND</div>
+      <div className="text-black text-3xl">HeritageIND</div>
       <div className="flex space-x-6 mx-16 text-xl">
         <ui className="flex gap-x-5">
           <li className="list-none text-block hover:text-grey-300 gap-x-8">

@@ -7,7 +7,7 @@ function Footer() {
       <div className="flex flex-col md:flex-row items-center justify-between text-black-500 h-20 ">
         <p className="mb-4 md:mb-0 md:text-xl mx-96">Travel with Us</p>
 
-        <div className="flex mx-96">
+        <div className="flex">
           <a href="#" className="mx-3 hover:opacity-80 duration-150">
             About us
           </a>{" "}
